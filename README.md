@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**bharghus/bharghus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 I am a Web Application Developer, currently living in New Delhi, India. I have a Bachelor of Engineering in Computer Science from Rajiv Gandhi Technical University. I develop in both JAVA and PHP, though I primarily use JAVA. I am both driven and self-motivated, and I am constantly experimenting with new technologies and techniques. I am very passionate about Web Development, and strive to better myself as a developer, and the development community as a whole.
 
