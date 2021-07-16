@@ -11,11 +11,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Mulesoft
 - 👯 I’m looking to collaborate on Full stack web development
 - 🤔 I’m looking for help with Backend & APIs
-- 💬 Ask me about 
 - 📫 How to reach me: [snd0047@gmail.com](mailto:snd0047@gmail.com) & [Twitter @bharghus](https://twitter.com/bharghus)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
 
 
 
