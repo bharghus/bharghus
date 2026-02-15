@@ -7,11 +7,11 @@ I am a Web Application Developer, currently living in New Delhi, India. I have a
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on PWA
-- 🌱 I’m currently learning Mulesoft
+- 🔭 I’m currently working on OnlineTaiyari Platform.
+- 🌱 I’m currently learning AI
 - 👯 I’m looking to collaborate on Full stack web development
 - 🤔 I’m looking for help with Backend & APIs
-- 📫 How to reach me: [snd0047@gmail.com](mailto:snd0047@gmail.com) & [Twitter @bharghus](https://twitter.com/bharghus)
+- 📫 How to reach me: [snd0047@gmail.com](mailto:sachchida@infobitsoft.com) & [Twitter @bharghus](https://twitter.com/bharghus)
 
 
 
